@@ -1,0 +1,16 @@
+1. Binary searching algorithm
+Binary searching algorithm
+Write a program to implement Binary searching algorithm for searching an element in an array.
+Input Format:
+The first line corresponds to size of an array.
+The second line corresponds to the elements in the array.
+The third input corresponds to element to be searched.
+Output Format:
+If the searching element present in the array print the number along with the location Eg:" 10 is found at location 6".
+otherwise print "Not found".
+Sample Input:
+6
+11 15 26 38 9 10
+10 
+Sample Output:        
+10 is present at location 6.
